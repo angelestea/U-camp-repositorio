@@ -23,7 +23,7 @@
 
 # <h4> 2do trabajo <h2/>
 
+<img src="./Trabajos en clase/Semana_1/Trabajo_en_clase_2_semana_1(1).jpg" />
+
 <img src="./Trabajos en clase/Semana_1/Trabajo_en_clase_2_semana_1.jpg" />
 
-
-<img src="./Trabajos en clase/Semana_1/Trabajo_en_clase_2_semana_1(1).jpg" />
